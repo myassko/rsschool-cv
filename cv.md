@@ -14,6 +14,7 @@ I took this course in 2024 but didn't complete it. My English isn't very good, b
 * HTML
 * CSS
 * GIT
+
 -----------------------------------------
 #### Code examples
 ```
@@ -31,7 +32,9 @@ describe("Multiply", () => {
   });
 });
 ```
+
 -----------------------------------------
+
 #### Education
 North Ossetian State University named after Kosta Khetagurov
 Major: Mathematics and Computer Science.
@@ -42,6 +45,7 @@ University graduation: Summer 2025
 * JS /FE Pre-School 2024Q2
 ![alt text](image.png)
 * Html academy
+
 -----------------------------------------
 #### Languages:
 English level: A1
