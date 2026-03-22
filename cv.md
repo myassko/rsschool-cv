@@ -1,9 +1,9 @@
 ## Mamsurova Alina
 ----------------------------------------
 #### Contact information:
-**Phone:** 89284959731
-**E-mail** alya.mamsurova@bk.ru
-**Telegram:** @myasoooooo
+* **Phone:** 89284959731
+* **E-mail** alya.mamsurova@bk.ru
+* **Telegram:** @myasoooooo
 
 -----------------------------------------
 #### Briefly About Myself:
@@ -48,6 +48,6 @@ University graduation: Summer 2025
 
 -----------------------------------------
 #### Languages:
-English level: A1
-Ossetian: Native
-Russian: Native
+* English level: A1
+* Ossetian: In the blood
+* Russian: Native
