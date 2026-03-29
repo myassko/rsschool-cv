@@ -3,8 +3,113 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <title>Document</title>
 </head>
-<body>
+<body class="max-width">
+    <header>
+    <nav class="nav-bar">
+        <ul class="nav-list">
+            <li>
+                <a href="#contact">Contact information</a>
+            </li>
+            <li>
+                <a href="#myself">Briefly About Myself</a>
+            </li>
+            <li>
+                <a href="#skills">Skills and Proficiency</a>
+            </li>
+            <li>
+                <a href="#code">Code examples</a>
+            </li>
+            <li>
+                <a href="#education">Education</a>
+            </li>
+            <li>
+                <a href="#courses">Courses</a>
+            </li>
+            <li>
+                <a href="#languages">Languages</a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main>
+<div class="profile-info">
+    <img class="profile_photo" src="images\гай цезарь.jpg" alt="Фото профиля">
+    <h1>Mamsurova Alina</h1>
+</div>
+<section id="contact" class="contact-information">
+    <h2>Contact information</h2>
+    <ul>
+        <li>Email: alya.mamsurova@bk.ru</li>
+        <li>Phone: 89284959731</li>
+        <li>Telegram: @myasoooooo</li>
+    </ul>
+</section>
+<section id="myself" class="about_myself">
+    <h2>Briefly About Myself</h2>
+    <p class="myself_info">I took this course in 2024 but didn't complete it. My English isn't very good, but I want to learn it. My strengths include quality work and responsibility. After completing the course, I expect to gain new knowledge that will allow me to enter the IT industry.</p>
+</section>
+<section id="skills" class="skills-conteiner">
+    <h2>Skills and Proficiency</h2>
+    <ul class="skills-list">
+        <li class="li_style">HTML</li>
+        <li class="li_style">CSS</li>
+        <li class="li_style">GIT</li>
+    </ul>
+</section>
+<section id="code" class="code-examples">
+    <h2>Code examples</h2>
+    <pre>
+        <code>
+const assert = require("chai").assert;
+describe("Multiply", () => {
+  it("fixed tests", () => {
+    assert.strictEqual(multiply(1,1), 1);
+    assert.strictEqual(multiply(2,1), 2);
+    assert.strictEqual(multiply(2,2), 4);
+    assert.strictEqual(multiply(3,5), 15); 
+    assert.strictEqual(multiply(5,0), 0);
+    assert.strictEqual(multiply(0,5), 0);
+    assert.strictEqual(multiply(0,0), 0); 
+  });
+});
+        </code>
+    </pre>
+</section>
+<section id="education" class="education">
+    <h2>Education</h2>
+    <p>North Ossetian State University named after Kosta Khetagurov</p>
+    <p>Major: Mathematics and Computer Science.</p>
+    <p>University graduation: Summer 2025</p>
+</section>
+<section id="courses" class="courses">
+    <h2>Courses</h2>
+    <ul>
+        <li class="cours-list">JS /FE Pre-School 2024Q2
+            <img src="images/image.png" alt="">
+        </li>
+        <li class="cours-list">Html academy</li>
+    </ul>
+</section>
+<section id="languages" class="languages">
+    <h2>Languages</h2>
+    <ul>
+        <li class="lang-list">English level: A1</li>
+        <li class="lang-list">Ossetian: In the blood</li>
+        <li class="lang-list">Russian: Native</li>
+    </ul>
+</section>
+</main>
+    <footer>
+        <div class="footer_container">
+            <ul class="footer-list">
+                <li><a class="footer-github-link" href="https://github.com/myassko"><img class="footer-github-logo" src="images/github.png" alt="">GitHub</a></li>
+                <li><a class="footer-github-rs-school-link" href="https://rs.school/ru/courses/javascript"><img class="footer-github-rs-school-logo" src="images/rs-school-logo.svg" alt=""></a></li>
+            </ul>
+            <p>March 2026</p>
+        </div>
+    </footer>
 </body>
 </html>
