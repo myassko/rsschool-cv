@@ -19,8 +19,8 @@ a{
     text-decoration: none;
     border-radius: 8px;
     padding: 10px;
-    background: #BFEFFF;
-    color: #fefefe;
+    background: #e3f2fe;
+    color: #23395D;
 }
 .max-width{
     max-width: 1000px;
@@ -33,9 +33,93 @@ a{
     margin-left: auto;
     margin-right: auto;
     border-radius: 8px;
-    margin-top: 80px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.profile-info{
+    margin-bottom: 50px;
 }
 h1{
     text-align: center;
     color: #333;
+}
+h2{
+    color: #333;
+    margin-top: 0px;
+    padding-left: 40px;
+}
+.contact-information{
+    background-color: #e3f2fe;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 50px;
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+}
+.about_myself{
+    background-color: #e3f2fe;
+    margin: 0 auto;
+    margin-top:50px;
+    padding: 30px;
+    border-radius: 8px;
+    text-align: center;
+    width: 700px;
+}
+.myself_info{
+    padding-left: 40px;
+}
+.skills-conteiner{
+    width: 500px;
+    padding: 30px;
+    background-color: #e3f2fe;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.li_style{
+    list-style: circle;
+}
+h2{
+    text-align: center;
+}
+.code-examples{
+    background-color: #e3f2fe;
+    border-radius: 8px;
+    width: 700px;
+    margin: 0 auto;
+    padding: 30px;
+    margin-top: 50px;
+}
+.education{
+    background-color: #e3f2fe;
+    border-radius: 8px;
+    width: 700px;
+    margin: 0 auto;
+    padding: 30px;
+    margin-top: 50px;
+}
+.courses{
+    background-color: #e3f2fe;
+    border-radius: 8px;
+    width: 700px;
+    margin: 0 auto;
+    padding: 30px;
+    margin-top: 50px;
+}
+.cours-list{
+    list-style: circle;
+    padding: 20px;
+}
+.languages{
+    background-color: #e3f2fe;
+    border-radius: 8px;
+    width: 700px;
+    margin: 0 auto;
+    padding: 30px;
+    margin-top: 50px;
+}
+.lang-list{
+    list-style: circle;
+    padding: 10px;
+    list-style: circle;
 }
