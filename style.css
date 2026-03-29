@@ -1,4 +1,4 @@
-.nav-list{
+.nav-list {
     display: flex;
     justify-content: space-around;
     margin: 0px;
@@ -6,28 +6,33 @@
     background-color: rgb(249, 255, 170);
     border-radius: 8px;
 }
-body{
+
+body {
     font-family: Arial, sans-serif;
     background-color: #f0f8c4;
     margin: 0;
     padding: 20px;
 }
-li{
+
+li {
     list-style: none;
 }
-a{
+
+a {
     text-decoration: none;
     border-radius: 8px;
     padding: 10px;
     background: #e3f2fe;
     color: #23395D;
 }
-.max-width{
+
+.max-width {
     max-width: 1000px;
     margin: 0 auto;
     padding-top: 0px;
 }
-.profile_photo{
+
+.profile_photo {
     width: 400px;
     display: block;
     margin-left: auto;
@@ -36,19 +41,23 @@ a{
     margin-top: 50px;
     margin-bottom: 50px;
 }
-.profile-info{
+
+.profile-info {
     margin-bottom: 50px;
 }
-h1{
+
+h1 {
     text-align: center;
     color: #333;
 }
-h2{
+
+h2 {
     color: #333;
     margin-top: 0px;
     padding-left: 40px;
 }
-.contact-information{
+
+.contact-information {
     background-color: #e3f2fe;
     padding: 20px;
     border-radius: 8px;
@@ -57,32 +66,38 @@ h2{
     text-align: center;
     margin: 0 auto;
 }
-.about_myself{
+
+.about_myself {
     background-color: #e3f2fe;
     margin: 0 auto;
-    margin-top:50px;
+    margin-top: 50px;
     padding: 30px;
     border-radius: 8px;
     text-align: center;
     width: 700px;
 }
-.myself_info{
+
+.myself_info {
     padding-left: 40px;
 }
-.skills-conteiner{
+
+.skills-conteiner {
     width: 500px;
     padding: 30px;
     background-color: #e3f2fe;
     margin: 0 auto;
     margin-top: 50px;
 }
-.li_style{
+
+.li_style {
     list-style: circle;
 }
-h2{
+
+h2 {
     text-align: center;
 }
-.code-examples{
+
+.code-examples {
     background-color: #e3f2fe;
     border-radius: 8px;
     width: 700px;
@@ -90,7 +105,8 @@ h2{
     padding: 30px;
     margin-top: 50px;
 }
-.education{
+
+.education {
     background-color: #e3f2fe;
     border-radius: 8px;
     width: 700px;
@@ -98,7 +114,8 @@ h2{
     padding: 30px;
     margin-top: 50px;
 }
-.courses{
+
+.courses {
     background-color: #e3f2fe;
     border-radius: 8px;
     width: 700px;
@@ -106,11 +123,13 @@ h2{
     padding: 30px;
     margin-top: 50px;
 }
-.cours-list{
+
+.cours-list {
     list-style: circle;
     padding: 20px;
 }
-.languages{
+
+.languages {
     background-color: #e3f2fe;
     border-radius: 8px;
     width: 700px;
@@ -118,12 +137,14 @@ h2{
     padding: 30px;
     margin-top: 50px;
 }
-.lang-list{
+
+.lang-list {
     list-style: circle;
     padding: 10px;
     list-style: circle;
 }
-.footer_container{
+
+.footer_container {
     background-color: #e3f2fe;
     display: flex;
     margin: 0 auto;
@@ -134,30 +155,36 @@ h2{
     padding: 30px;
     margin-top: 50px;
 }
-.footer-list{
+
+.footer-list {
     display: flex;
     justify-content: space-around;
 }
-.footer-github-logo{
+
+.footer-github-logo {
     width: 30px;
     height: 30px;
     margin-right: 10px;
     text-align: center;
 }
-.footer-github-rs-school-logo{
+
+.footer-github-rs-school-logo {
     width: 50px;
     height: 30px;
     margin-right: 10px;
     margin-left: 30px;
 }
-p{
+
+p {
     text-align: center;
 }
-.footer-github-link{
+
+.footer-github-link {
     display: flex;
     align-items: center;
 }
-.footer-github-rs-school-link{  
+
+.footer-github-rs-school-link {
     display: flex;
     align-items: center;
-} 
+}
